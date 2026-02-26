@@ -1,0 +1,31 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f5f7fb;
+}
+
+.hero-section {
+    min-height: calc(100vh - 56px);
+    background: linear-gradient(135deg, #dbeafe 0%, #f3e8ff 100%);
+}
+
+.hero-card {
+    border-radius: 1.25rem;
+}
+
+.auth-bg {
+    min-height: 100vh;
+    background: linear-gradient(140deg, #ecfeff 0%, #eef2ff 100%);
+}
+
+.card {
+    border-radius: 1rem;
+}
+
+#vehiclesTable td,
+#vehiclesTable th {
+    vertical-align: middle;
+}
+
+.list-group-item small {
+    color: #6b7280;
+}
